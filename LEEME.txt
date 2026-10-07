@@ -1,0 +1,71 @@
+PORTFOLIO DE LAURA HERNÁNDEZ
+
+ABRIR EN CUALQUIER ORDENADOR
+1. Descarga el ZIP y extrae toda la carpeta (Extraer todo / Descomprimir).
+2. Abre index.html con Chrome, Edge, Firefox o Safari.
+3. Conserva index.html, style.css, repair.css, refinement.css, main.js, assets.js y las carpetas img y fonts juntos.
+No necesitas iniciar sesión en ChatGPT, instalar programas ni ejecutar un servidor.
+Las imágenes, fuentes y vídeos están incluidos y pueden verse sin internet.
+Para enviar mensajes, abrir Instagram o usar WhatsApp sí necesitas internet.
+
+ACTIVAR LOS MENSAJES DE CONTACTO (LAURA)
+El formulario usa FormSubmit para enviar mensajes a lauravhernandezmm@gmail.com.
+1. Abre la sección Contact y envía un mensaje de prueba con tu email.
+2. En la nueva pestaña, completa los pasos de comprobación del servicio si aparecen.
+3. Revisa la bandeja de entrada y spam de lauravhernandezmm@gmail.com.
+4. Abre el correo de FormSubmit y confirma la dirección con el botón de activación.
+5. Envía otro mensaje y comprueba que lo recibes. Hasta activar la dirección, el envío a tu bandeja no está verificado.
+El formulario no abre la aplicación de correo del visitante; realiza un envío a FormSubmit.
+La confirmación se abre en una nueva pestaña para conservar el portfolio local abierto.
+No se necesita una base de datos ni se incluyen contraseñas o claves privadas.
+
+DIFERENCIAS ENTRE ESCRITORIO Y MÓVIL
+Escritorio: páginas ajustadas a pantalla y galerías horizontales.
+Móvil: menú alineado y contenido con desplazamiento vertical.
+
+SKILLS
+Illustrator 5/5; InDesign 5/5; Photoshop 4/5; Premiere 4/5;
+After Effects 4/5; Figma 4/5; HTML 3/5; Social media management 5/5.
+En escritorio se muestran el nombre y las estrellas al pasar el ratón o enfocar el icono con el teclado.
+En móvil las valoraciones están siempre visibles.
+
+VÍDEOS
+Autoplay, muted, loop y playsinline. Un navegador con ahorro de energía o restricciones personales puede bloquear la reproducción automática.
+
+CONTACTO
+lauravhernandezmm@gmail.com
+
+ACTUALIZACIONES
+About me incluye un botón a Mi playlist con el reproductor oficial de Spotify. Spotify necesita conexión a internet.
+Magazine Layouts se divide en Reportaje, Maquetación de memoria y Florario de Diseño, cada uno con su propia galería y PDF.
+En escritorio cada galería tiene una sola barra horizontal; Featured Work muestra sus tres tarjetas sin scroll.
+El favicon usa la orquídea sobre el rosa de la interfaz.
+Helvetica está incluida en las variantes regular, negrita, cursiva y negrita cursiva. La página carga los archivos locales de fonts, sin depender de que Helvetica esté instalada en el ordenador. Amoresa también está incluida.
+
+About Me: tres pantallas conectadas con flechas (presentación, inspiración y playlist). El botón CV aparece en las tres. Inspiración tiene imágenes seleccionables y puntos de navegación; el CV vuelve a la pantalla desde la que se abrió.
+Pulsar la sección activa del menú vuelve a la página principal, tanto en ordenador como en móvil.
+
+Inspiración: selección de Micca, Toby Fox, Rei, Metrika y Six Sex, textos bilingües al pasar el ratón y bajo la imagen en móvil. Transiciones entre páginas y hover; se respeta la preferencia de movimiento reducido.
+
+En ordenador, el marco ocupa el ancho y alto completos de la ventana y mantiene las proporciones de imágenes y texto; el menú y el pie permanecen anclados abajo.
+
+Los trabajos se abren en fichas individuales con información a la izquierda e imágenes a la derecha. Las fichas usan scroll vertical interior en ordenador; en móvil se conserva el scroll vertical de la página.
+
+Inspiración cambia de imagen cada 4 segundos; se pausa al pasar el ratón por el carrusel o usar sus controles. Los paneles de About Me dejan más espacio sobre el menú; los títulos de las secciones de trabajo y Skills se alinean a la derecha en ordenador.
+
+PRESENTACIÓN DE TRABAJOS
+Cada cartel de Signs and Flyers abre su propia ficha. Sandy Sinner y los proyectos de layouts muestran todas sus imágenes en vertical dentro de un panel similar al del CV. El botón volver cierra la ficha y regresa a su categoría; Escape también vuelve cuando no hay una imagen ampliada abierta. Los PDFs y el enlace a la campaña completa de Sabadell se conservan.
+
+NOVEDADES
+Ensayos y edición de vídeo tienen secciones propias, listas para incorporar los trabajos. Skills incluye diseño web e ilustración digital (Procreate); diseño web tiene 4 estrellas y Procreate tiene 5. Diseño web sustituye a HTML. La playlist incluye el texto diario en inglés y español.
+
+ACTUALIZACIÓN DE PROYECTOS
+Textos completos de las fichas en inglés y español, según PROMPT PORTFOLIO.
+Domination: mockups, presentación original y 7 fotos del proceso.
+Cartelería: fichas por cartel, mockups, moodboard de Stay High y nueva imagen de Scary Movie. Bauhaus enlaza con la memoria; su apartado de proceso muestra los bocetos y desarrollo documentados en ella.
+Campañas: menú con Sabadell x San Isidro y Madrid merece mais dias. Presentaciones completas, cartelería y enlaces cruzados con diseño.
+Carl: 8 piezas seleccionadas entre pantallas y sistema; memoria completa descargable.
+Revistas: reportaje Ai Weiwei, memoria Bauhaus y Florario. Florario separa publicación final, presentación, memoria y proceso.
+Ensayos: lectura completa y descarga de los dos PDF.
+Edición de vídeo retirada por indicación del documento.
+Los PDF de mayor tamaño se han optimizado para consulta en pantalla, conservando todas sus páginas. Los originales siguen en el ZIP aportado.
