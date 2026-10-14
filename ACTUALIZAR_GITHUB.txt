@@ -1,0 +1,17 @@
+ACTUALIZACIÓN DEL 14 DE OCTUBRE
+
+Incluye 4 nuevos tatuajes, 2 dibujos, Jäg Records (11 diapositivas y vídeo), y About me con presentación y playlist.
+
+GITHUB DESKTOP
+1. Descomprime el ZIP.
+2. Selecciona tu repositorio en GitHub Desktop. Pulsa Fetch origin y, si aparece, Pull origin.
+3. Repository > Show in Explorer.
+4. Copia TODOS los archivos y carpetas de Laura_Hernandez_Portfolio dentro de la carpeta del repositorio, donde está index.html. Reemplaza los existentes. No copies la carpeta contenedora ni el ZIP.
+5. GitHub Desktop: revisa Changes. Escribe Actualizar portfolio: Jäg Records en Summary.
+6. Commit to main > Push origin.
+7. Espera a que GitHub Pages termine de publicar. El enlace es el mismo. Si ves la versión antigua, Ctrl+F5.
+
+VERSIÓN WEB
+Para este cambio completo, utiliza Desktop para evitar el límite de 100 archivos por subida. Para cambios pequeños puedes editar un archivo con el icono del lápiz y confirmar con Commit changes.
+
+No necesitas borrar el repositorio ni volver a configurar Pages. Esta actualización solo añade/reemplaza archivos; no hace falta borrar archivos antiguos. La sección de inspiración ya no tiene acceso ni navegación aunque conserves sus imágenes antiguas.
