@@ -1,4 +1,4 @@
-ACTUALIZACIÓN 16 DE OCTUBRE
-Fun stuff añadido a Design > Signs and Flyers. El póster verde BANG se ha movido desde Custom Drawings.
+ACTUALIZACIÓN: TARJETAS EN ESCRITORIO
+Signs and Flyers y Marketing Campaigns ahora muestran tarjetas en una única fila con una barra horizontal cuando no caben.
 
-Descomprime el ZIP. En GitHub Desktop selecciona tu repositorio, Fetch origin y Pull origin si aparece. Repository > Show in Explorer. Copia el CONTENIDO de Laura_Hernandez_Portfolio en la raíz del repositorio, donde está index.html, reemplazando los archivos. Vuelve a Desktop: escribe un Summary, Commit to main y Push origin. El enlace de tu web se mantiene. No necesitas borrar archivos ni el repositorio.
+Descomprime el ZIP. En GitHub Desktop: Fetch origin (y Pull origin si aparece), Repository > Show in Explorer. Copia el CONTENIDO de Laura_Hernandez_Portfolio donde está index.html, reemplazando. Commit to main > Push origin. Tras publicarse, Ctrl+F5.

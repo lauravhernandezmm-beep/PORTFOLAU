@@ -6,3 +6,14 @@ html[data-theme=dark]{color-scheme:dark;background:#19141b}html[data-theme=dark]
 @media(prefers-reduced-motion:reduce){#theme-toggle{transition:none}}
 
 .campaign-video{width:100%;margin:0;padding:16px;box-sizing:border-box}.campaign-video video{display:block;width:100%;max-height:68vh;object-fit:contain;background:#111;border-radius:8px}.campaign-video figcaption{text-align:center;margin-top:12px;font:16px Helvetica,Arial,sans-serif}@media(max-width:1024px){.campaign-video{padding:8px}.campaign-video video{max-height:none}}
+
+/* Desktop overview cards: one row with one native horizontal scrollbar. */
+@media(min-width:1025px){
+.signs-overview .gallery,.marketing-overview .gallery{display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-items:stretch;gap:35px;flex:1;min-width:0;min-height:0;width:100%;overflow-x:auto;overflow-y:hidden;padding:12px 2px 22px;scrollbar-width:auto;scrollbar-color:#ff859a #ffe3e8;scroll-snap-type:x proximity;overscroll-behavior-x:contain;touch-action:pan-x}
+.signs-overview .gallery::-webkit-scrollbar,.marketing-overview .gallery::-webkit-scrollbar{display:block;height:12px}
+.signs-overview .gallery::-webkit-scrollbar-track,.marketing-overview .gallery::-webkit-scrollbar-track{background:#ffe3e8;border-radius:12px}
+.signs-overview .gallery::-webkit-scrollbar-thumb,.marketing-overview .gallery::-webkit-scrollbar-thumb{background:#ff859a;border-radius:12px;border:2px solid #ffe3e8}
+.signs-overview .project-card,.marketing-overview .project-card{display:flex;flex-direction:column;flex:0 0 420px;width:420px;max-width:none;height:100%;min-height:0;gap:16px;scroll-snap-align:start}
+.signs-overview .project-card .cover,.marketing-overview .project-card .cover{flex:1;min-height:120px;width:100%;height:auto}
+.signs-overview .project-card h2,.marketing-overview .project-card h2{flex:none;font-size:32px;line-height:1.15;min-height:74px;margin:0;overflow-wrap:break-word}
+}
